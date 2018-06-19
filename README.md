@@ -1,5 +1,6 @@
 # ManhattanPlot
 Clickable diagram manhatten plot type
+
 The script on Python initating by command line.
 
 All options available on python mp7.py
@@ -21,5 +22,7 @@ All options available on python mp7.py
   --path=PATH           Path where save the results
   
   Full command like is python mp7.py --cols=0,1,2,3 --colors=rk --dotsactive=19 --path=/home/users/ --module=Modele_NPC myfilecopy.txt
-  where myfilecopy.txt is a file with records <Chr# Position_insideChr  p-value>.
-  The file preparing outside the script and connection with the database is progress.
+
+where myfilecopy.txt is a file with records <Chr# Position_insideChr  p-value>.
+
+The file preparing outside the script and connection with the database is progress.
