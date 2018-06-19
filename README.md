@@ -26,3 +26,12 @@ All options available on python mp7.py
 where myfilecopy.txt is a file with records <Chr# Position_insideChr  p-value>.
 
 The file preparing outside the script and connection with the database is progress.
+
+The results of the script are three files:
+
+- graphican png file;
+
+- html file with clicable number of hits (base on -log10(p-value));
+
+- ordered json file with coordinate of hits;
+
