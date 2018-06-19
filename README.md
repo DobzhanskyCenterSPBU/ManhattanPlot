@@ -29,9 +29,9 @@ The file preparing outside the script and connection with the database is progre
 
 The results of the script are three files:
 
-- graphican png file;
+- graphical file (png-file 800x600px with 144dpi;
 
-- html file with clicable number of hits (base on -log10(p-value));
+- html file with clickable number of hits (base on -log10(p-value)). Number of hits define by option "dotsactive";
 
-- ordered json file with coordinate of hits;
+- ordered json file with coordinate of hits (ccordinates in css format);
 
